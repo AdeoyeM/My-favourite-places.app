@@ -13,3 +13,5 @@ postDate= {{ month: "July", day: 12, year: 2022}}
  ); 
 
 }
+
+export default MainContent;
